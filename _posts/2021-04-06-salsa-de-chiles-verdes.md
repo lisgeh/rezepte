@@ -1,5 +1,5 @@
 ---
-title: Salsa aus grünen Chilis mit Öl
+title: Salsa de chiles verdes en aceite
 layout: post
 ---
 
@@ -20,7 +20,3 @@ Alles soll nicht zu braun werden, die Endfarbe ist hellgrün. Leichte goldige Br
 3. Alles aus der Pfanne raus und in Püriersituation bringen.
 4. Salz, Hühnerbrühe und Öl hinzugeben und pürieren bis zu einer homogenen cremig zäh fließenden Majokonsistenz.
 
-
-# Varianten
-
-- keine
